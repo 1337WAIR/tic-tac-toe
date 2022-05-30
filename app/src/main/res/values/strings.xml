@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="single">SINGLE</string>
+    <string name="two">TWO</string>
+    <string name="settings">SETTINGS</string>
+    <string name="exit">EXIT</string>
+    <string name="startgame">START GAME</string>
+    <string name="enterplayernames">ENTER PLAYER NAMES</string>
+    <string name="playertwo">Player Two</string>
+    <string name="playerone">Player One</string>
+    <string name="menu">MENU</string>
+    <string name="Continue">CONTUNUE</string>
+    <string name="icoWinner">:)</string>
+    <string name="sound_of_buutons">SOUND OF BUTTONS  </string>
+    <string name="sound_win_loss_fw">SOUND WIN/LOSS/FW</string>
+    <string name="language">LANGUAGE</string>
+    <string name="back_message">Click again to exit</string>
+    <string name="OFF">OFF</string>
+    <string name="ON">ON</string>
+    <string name="message_for_two_player">Please enter player names</string>
+    <string name="complexity">COMPLEXITY</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="move">MOVE</string>
+    <string name="first">FIRST</string>
+    <string name="second">SECOND</string>
+    <string name="source">SOURCE</string>
+    <string name="turn_of">Turn of</string>
+    <string name="won">WON!!!</string>
+    <string name="friendship_won">FRIENDSHIP WON!</string>
+    <string name="won_single">YOU WON!</string>
+    <string name="loss_single">YOU LOST!</string>
+</resources>

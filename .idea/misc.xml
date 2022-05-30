@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/back_dialog.xml" value="0.21614583333333334" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/background.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/backgrount_twoplayer.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/btn_press_true_of_false.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/scorestyle.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/style_btn_black85.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/style_btn_black85_press.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/style_btn_blue.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/drawable/style_btn_blue_press.xml" value="0.37864583333333335" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/activity_main.xml" value="0.17928286852589642" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/dialog.xml" value="0.22" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/dialog_end.xml" value="0.25" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/game_board.xml" value="0.18" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/main_settings.xml" value="0.33" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/single_settings.xml" value="0.25" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/singlesettings.xml" value="0.3625" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/two_player_settings.xml" value="0.2677083333333333" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/twoplayersettings.xml" value="0.3625" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/layout/twoplayersgame.xml" value="0.22" />
+        <entry key="..\:/TicTacToe/TicTacToe3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

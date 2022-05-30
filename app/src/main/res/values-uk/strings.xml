@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Хрестики-нулики</string>
+    <string name="single">ОДИНОЧНА</string>
+    <string name="two">ДВА ГРАВЦЯ</string>
+    <string name="settings">НАСТРОЙКИ</string>
+    <string name="exit">ВИХІД</string>
+    <string name="startgame">ГРАТИ</string>
+    <string name="enterplayernames">ВВЕДІТЬ ІМЕНА ГРАВЦІВ</string>
+    <string name="playertwo">ГРАВЕЦЬ ДВА</string>
+    <string name="playerone">ГРАВЕЦЬ ОДИН</string>
+    <string name="menu">МЕНЮ</string>
+    <string name="Continue">ДАЛІ</string>
+    <string name="icoWinner">:)</string>
+    <string name="sound_of_buutons">ЗВУКИ КНОПОК  </string>
+    <string name="sound_win_loss_fw">ЗВУК ВИГ/ПРОГ/НІЧ</string>
+    <string name="language">МОВА</string>
+    <string name="back_message">Натисніть ще раз, щоб вийти</string>
+    <string name="OFF">ВИКЛ</string>
+    <string name="ON">ВКЛ</string>
+    <string name="message_for_two_player">Будь ласка, введіть імена гравців</string>
+    <string name="complexity">СКЛАДНІСТЬ</string>
+    <string name="easy">ЛЕГКA</string>
+    <string name="medium">СЕРЕДНЯ</string>
+    <string name="hard">ВАЖКА</string>
+    <string name="move">ХІД</string>
+    <string name="first">ПЕРШИЙ</string>
+    <string name="second">ДРУГИЙ</string>
+    <string name="source">ХІД ЗА</string>
+    <string name="turn_of">Ходить</string>
+    <string name="won">ПЕРЕМІГ!</string>
+    <string name="friendship_won">НІЧИЯ!</string>
+    <string name="won_single">ТИ ПЕРЕМІГ!</string>
+    <string name="loss_single">ТИ ПРОГРАВ!</string>
+</resources>
